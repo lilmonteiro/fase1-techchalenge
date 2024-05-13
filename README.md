@@ -1,4 +1,4 @@
-# Tech Chalenge - Fase 1
+# Tech Chalenge - Fase 1 (Grupo 1)
 
 Entrega do desenvolvimento de um modelo de regressão de Machine Learning, para prever custos médicos individuais cobrados pelo seguro de saúde.
 
